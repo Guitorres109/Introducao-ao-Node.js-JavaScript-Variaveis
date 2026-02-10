@@ -54,3 +54,8 @@ Exiba no console.
  ### BACK-END
 - Identificar as características de programação back-end em ambiente web
 - Preparar o ambiente necessário ao desenvolvimento back-end para a plataforma web
+
+---
+
+### Guilherme Barbosa Torres
+- DS I3 SESI | 2026/1
